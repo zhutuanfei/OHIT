@@ -1,3 +1,3 @@
 # OHIT
 Oversampling for Imbalanced Time Series Data
-The password is the last word in the ACKNOWLEDGMENTS of our paper
+Please contact the first author (zhutuanfei@hnu.edu.cn) to obtain the password.
