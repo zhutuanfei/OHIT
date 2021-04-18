@@ -1,4 +1,4 @@
-# OHIT
+# OHIT 
 Oversampling for Imbalanced Time Series Data
 
-Please contact the first author (zhutuanfei@hnu.edu.cn) to obtain the password.
+The source code of OHIT, and performance results of OHIT and its variants
