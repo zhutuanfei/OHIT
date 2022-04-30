@@ -1,4 +1,6 @@
 # OHIT 
-Oversampling for Imbalanced Time Series Data
 
-The source code of OHIT, and performance results of OHIT and its variants
+
+The source code for OHIT oversampling.
+
+The details can be found in the paper "Minority oversampling for imbalanced time series classification".
